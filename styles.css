@@ -1,0 +1,24 @@
+body {
+    background-color: lightseagreen;
+    font-family: sans-serif;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    width: 50vw;
+    margin-left: 25vw;
+    margin-right:  25vw;
+    padding: 20px;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+}
+label {
+    margin-right: 50px;
+}
+
